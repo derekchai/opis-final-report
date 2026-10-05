@@ -37,8 +37,8 @@
 
 == Signatures
 
-In signing this document in @signatures, each team member acknowledges the table of authorship outlined in
-@table-of-authorship.
+In signing this document in @signatures, each team member acknowledges the table
+of authorship outlined in @table-of-authorship.
 
 #figure(
   styled-table(

@@ -77,12 +77,14 @@ Allocate a buffer for task deadlines to manage scope changes",
 #page(flipped: true)[
   = Project risks assessment
 
-  As a part of our project, we are conscious of the risks which may arise. Unmanaged risks may result in decreased
-  productivity and delays in production, and so it is crucial that we identify these risks in order to be able to
+  As a part of our project, we are conscious of the risks which may arise.
+  Unmanaged risks may result in decreased productivity and delays in production,
+  and so it is crucial that we identify these risks in order to be able to
   provide appropriate mitigations.
 
-  @project-risks-assessment outlines potential risks we foresee in the development of this project, their potential
-  impacts, and how we are mitigating them.
+  @project-risks-assessment outlines potential risks we foresee in the
+  development of this project, their potential impacts, and how we are
+  mitigating them.
 
 
   #show figure.where(kind: table): set block(breakable: true)
