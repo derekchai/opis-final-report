@@ -28,7 +28,7 @@
 
 #show link: underline
 
-#set text(font: "DM Sans", fill: luma(20%), size: 10pt)
+#set text(font: "Inter", fill: luma(20%), size: 10pt)
 #set text(lang: "en", region: "GB")
 
 #show heading: set text(font: "Fraunces")

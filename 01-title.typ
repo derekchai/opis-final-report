@@ -19,7 +19,7 @@ _Final Report_
 #v(4em)
 
 #set align(left)
-#set text(font: "DM Sans")
+#set text(font: "Inter")
 
 #grid(
   columns: (1fr, auto), 
