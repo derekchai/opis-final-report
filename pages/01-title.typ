@@ -1,11 +1,11 @@
 #set page(footer: none, header: none)
 #set text(font: "Fraunces")
 
-#place(scale(image("assets/star.png"), x: -100%), right)
+#place(scale(image("/assets/star.png"), x: -100%), right)
 
 #set align()
 #v(1fr)
-#image("assets/opis-logo.png", width: 30%)
+#image("/assets/opis-logo.png", width: 30%)
 
 \
 
