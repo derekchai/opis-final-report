@@ -1,21 +1,21 @@
-#import "@preview/hydra:0.6.3": hydra, 
+#import "@preview/hydra:0.6.3": hydra
 
 #set page(numbering: "1")
 
 #set page(footer: context [
   #h(1fr)
-  #counter(page).display( "1" )
+  #counter(page).display("1")
 ])
 
-#set page(header: context[
+#set page(header: context [
   #h(1fr)
-  #emph(hydra(1)) 
+  #emph(hydra(1))
 ])
 
 #show figure: set figure.caption(position: top)
 #show figure.caption: it => align(left)[
-  *#it.supplement #it.counter.get().at(0)* 
-  \ _#it.body _ 
+  *#it.supplement #it.counter.get().at(0)*
+  \ _#it.body _
   #v(1em)
 ]
 
@@ -46,9 +46,10 @@
 #let spacing = 0.65em
 
 #set par(
-  justify: true, 
-  first-line-indent: 0.5in, 
-  spacing: spacing, leading: spacing
+  justify: true,
+  first-line-indent: 0.5in,
+  spacing: spacing,
+  leading: spacing,
 )
 
 #set page(number-align: right, margin: 1in)

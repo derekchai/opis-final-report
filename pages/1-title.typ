@@ -10,9 +10,12 @@
 \
 
 #text(
-  font: "Fraunces", weight: "medium", size: 24pt,
-fill: luma(30%))[
-_Final Report_
+  font: "Fraunces",
+  weight: "medium",
+  size: 24pt,
+  fill: luma(30%),
+)[
+  _Final Report_
 ]
 
 
@@ -22,16 +25,19 @@ _Final Report_
 #set text(font: "Inter")
 
 #grid(
-  columns: (1fr, auto), 
-  align: bottom, 
-  
-table(columns: 2, stroke: none, column-gutter: 1em, align: left,
-[Jennifer Butcher], [_Client liaison, frontend_],
-[Derek Chai], [_UI/UX, frontend_],
-[Elle Fleming], [_Backend_],
-[Ethan Gee], [_DevOps, rendering_],
-[Jianing Li], [_Rendering_]
-),
-[Version 0.1], 
+  columns: (1fr, auto),
+  align: bottom,
 
+  table(
+    columns: 2,
+    stroke: none,
+    column-gutter: 1em,
+    align: left,
+    [Jennifer Butcher], [_Client liaison, frontend_],
+    [Derek Chai], [_UI/UX, frontend_],
+    [Elle Fleming], [_Backend_],
+    [Ethan Gee], [_DevOps, rendering_],
+    [Jianing Li], [_Rendering_],
+  ),
+  [Version 0.1],
 )
