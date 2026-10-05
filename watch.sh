@@ -1,1 +1,1 @@
-typst watch 00-main.typ --font-path ./fonts
+typst watch main.typ --font-path ./fonts
