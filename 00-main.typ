@@ -22,7 +22,7 @@
 
 // CONTENT
 
-#include "01-title.typ"
+#include "pages/01-title.typ"
 
 #pagebreak()
 
@@ -61,7 +61,7 @@
 #show "Orbit Viewer": it => emph(it)
 #show "Orbital Planetary Interactive Simulator": it => emph(it)
 
-#include "02-executive-summary.typ"
+#include "pages/02-executive-summary.typ"
 // #include "3-background-and-rationale.typ"
 // #include "4-specific-aims.typ"
 // #include "5-project-approach.typ"
