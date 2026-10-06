@@ -14,6 +14,6 @@ Once installed, you can use the command palette (Ctrl + Shift + P / Cmd + Shift 
 to select the `Typst Preview: Preview Opened File` option, which opens a live
 preview of the selected `.typ` file in another tab.
 
-Tinymist also includes a Typst formatter, which is configured by the settings
+Tinymist also includes a Typst formatter ([Typstyle](https://typstyle-rs.github.io/typstyle/introduction.html)), which is configured by the settings
 file in `/.vscode/settings.json`. You can set VS Code to automatically format on
 save.
