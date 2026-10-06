@@ -1,5 +1,5 @@
 {
-    "tinymist.formatterMode": "typstyle",
+    "tinymist.formatterMode": "disable",
     "tinymist.formatterIndentSize": 2,
     "tinymist.formatterPrintWidth": 80,
     "tinymist.formatterProseWrap": true
