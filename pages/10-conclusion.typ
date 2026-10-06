@@ -1,4 +1,4 @@
-#import "functions.typ": *
+#import "/functions.typ": *
 
 = Appendix
 == Table of authorship

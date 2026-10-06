@@ -28,7 +28,7 @@ overwhelming for students to complete the lab tasks without guidance from
 teaching staff.
 
 #figure(
-  image("eyes-on-exoplanets.png"),
+  image("/assets/eyes-on-exoplanets.png"),
   placement: bottom,
   caption: [NASA's Eyes on Exoplanets interface upon first launch],
 )<eyes-on-exoplanets>
@@ -51,7 +51,7 @@ unrelated to the material itself, and can even lead to a more negative
 perception of the learning experience @qiu_cognitive_2026.
 
 #figure(
-  image("warning.png"),
+  image("/assets/warning.png"),
   placement: auto,
   caption: [ASTRO 100 lab sheet note warns students that the simulations may
     become slow or unresponsive if left running for extended periods of time],

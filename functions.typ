@@ -20,9 +20,9 @@
 }
 
 #let members = (
-  ("Jianing Li", "signature-jianing.png"),
-  ("Jennifer Butcher", "signature-jennifer.png"),
-  ("Derek Chai", "signature-derek.png"),
-  ("Ethan Gee", "signature-ethan.png"),
-  ("Elle Fleming", "signature-elle.png"),
+  ("Jianing Li", "/assets/signature-jianing.png"),
+  ("Jennifer Butcher", "/assets/signature-jennifer.png"),
+  ("Derek Chai", "/assets/signature-derek.png"),
+  ("Ethan Gee", "/assets/signature-ethan.png"),
+  ("Elle Fleming", "/assets/signature-elle.png"),
 )

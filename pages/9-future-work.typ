@@ -1,4 +1,4 @@
-#import "functions.typ": *
+#import "/functions.typ": *
 
 = Effort estimations
 We have broken our project into eight key epics. For each epic, we have assigned
@@ -93,7 +93,7 @@ hours per week to the project.
 #page(flipped: true, header: none, footer: none)[
   #v(-2em)
   #figure(
-    image("gantt-chart.png", width: 100%),
+    image("/assets/gantt-chart.png", width: 100%),
     caption: [Gantt chart for the project. Alternatively, the chart can be found
       at \ #link(
         "https://app.ganttpro.com/shared/gantt/3e42e667144e5436ef423275a9d8850e96a1af58b0ed9370f127b003e5dcf76e/3051581",

@@ -63,16 +63,13 @@
 #show "Orbital Planetary Interactive Simulator": it => emph(it)
 
 #include "pages/2-executive-summary.typ"
-// #include "3-background-and-rationale.typ"
-// #include "4-specific-aims.typ"
-// #include "5-project-approach.typ"
-// #include "6-project-risks-assessment.typ"
-// #include "7-project-plan.typ"
-// #include "8-effort-estimation.typ"
-
-#pagebreak()
-
-// #include "9-table-of-authorship.typ"
-
-#pagebreak()
-// #include "10-bibliography.typ"
+#include "pages/3-table-of-contents.typ"
+#include "pages/4-introduction.typ"
+#include "pages/5-background.typ"
+#include "pages/6-specification-and-design.typ"
+#include "pages/7-implementation.typ"
+#include "pages/8-results-and-evaluation.typ"
+#include "pages/9-future-work.typ"
+#include "pages/10-conclusion.typ"
+#include "pages/11-references.typ"
+#include "pages/12-appendices.typ"

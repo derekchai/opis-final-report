@@ -1,1 +1,1 @@
-#bibliography("COMPSCI 399.bib", full: true, style: "ieee")
+#bibliography("/COMPSCI 399.bib", full: true, style: "ieee")
