@@ -76,5 +76,3 @@
 
 #pagebreak()
 // #include "10-bibliography.typ"
-
-Test
