@@ -43,7 +43,7 @@
 #set table.vline(stroke: 0.5pt)
 #set table.hline(stroke: 0.5pt)
 
-#let spacing = 0.65em
+#let spacing = 1em
 
 #set par(
   justify: true,
