@@ -1,3 +1,4 @@
 = Executive summary
 
-#lorem(200)
+- A brief overview of the investigation, outcomes and recommendations of the
+  project.
