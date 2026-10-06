@@ -1,5 +1,10 @@
 # OPIS Final Report
 
+## Installation
+
+- [Typst CLI](https://github.com/typst/typst)
+- [Tinymist](https://myriad-dreamin.github.io/tinymist/)
+
 ## Building
 
 To build the PDF file, run `typst compile main.typ`.
