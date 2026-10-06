@@ -21,4 +21,6 @@ preview of the selected `.typ` file in another tab.
 
 Tinymist also includes a Typst formatter ([Typstyle](https://typstyle-rs.github.io/typstyle/introduction.html)), which is configured by the settings
 file in `/.vscode/settings.json`. You can set VS Code to automatically format on
-save.
+save. You can combine this with `"files.autoSave": "onFocusChange"` to automatically
+save/format when the editor loses focus (e.g. when you move to terminal/GUI to
+commit).
