@@ -63,13 +63,33 @@
 #show "Orbital Planetary Interactive Simulator": it => emph(it)
 
 #include "pages/2-executive-summary.typ"
+#pagebreak();
+
 #include "pages/3-table-of-contents.typ"
+#pagebreak();
+
 #include "pages/4-introduction.typ"
+#pagebreak();
+
 #include "pages/5-background.typ"
+#pagebreak();
+
 #include "pages/6-specification-and-design.typ"
+#pagebreak();
+
 #include "pages/7-implementation.typ"
+#pagebreak();
+
 #include "pages/8-results-and-evaluation.typ"
+#pagebreak();
+
 #include "pages/9-future-work.typ"
+#pagebreak();
+
 #include "pages/10-conclusion.typ"
+#pagebreak();
+
 #include "pages/11-references.typ"
+#pagebreak();
+
 #include "pages/12-appendices.typ"
